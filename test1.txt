@@ -1,2 +1,3 @@
 Content in test 1 file
 altered
+after checkout
